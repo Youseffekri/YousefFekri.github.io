@@ -155,8 +155,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #6aabd4;
+  color: #6aabd4;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 47, 202);
+  color: rgb(5, 68, 169);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -275,7 +275,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: #b2eaf6 !important;
 }
 
 li.logo span {
@@ -383,12 +383,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
-  border-bottom: 2px solid #ffab40;
+  color: #333333;
+  border-bottom: 2px solid #40afff;
 }
 
 .card li a:hover {
-  color: #333;
+  color: #333333;
   font-weight: 500;
 }
 
@@ -428,7 +428,7 @@ h3 {
 
 .card-action span {
   font-size: 85%;
-  color: #666;
+  color: #666666;
 }
 
 .card ul {
@@ -442,7 +442,7 @@ h3 {
 }
 
 .card ul li li {
-  color: #666;
+  color: #666666;
   font-size: 13px;
 }
 

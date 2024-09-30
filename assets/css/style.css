@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #015094 repeat;
+  background: #3b8ef3 repeat;
   position: relative;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #0B2442 !important;
 }
 
 #skills .card.large {

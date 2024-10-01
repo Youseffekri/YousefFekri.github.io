@@ -530,7 +530,8 @@ a.hoverline:hover {
 
 
 .card-reveal {
-  font-size: 18px; /* Adjust the size to your preference */
+  font-size: 18px; 
+  padding-top: 20px;
 }
 
 .card-reveal p {

@@ -528,6 +528,12 @@ a.hoverline:hover {
   position: relative;
 }
 
+
+.card-reveal p {
+  text-align: justify;
+}
+
+
 #experience .col.s12.m2 {
   text-align: center;
 }

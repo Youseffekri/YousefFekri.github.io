@@ -529,6 +529,10 @@ a.hoverline:hover {
 }
 
 
+.card-reveal {
+  font-size: 18px; /* Adjust the size to your preference */
+}
+
 .card-reveal p {
   text-align: justify;
 }

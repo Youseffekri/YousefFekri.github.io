@@ -573,7 +573,8 @@ small {
 /* .teal */
 
 .teal {
-  background-color: rgba(0, 0, 0, 0.4) !important;
+  /* background-color: #0B2442 !important; */
+  background-color: rgba(0, 0, 0, 0.4)
 }
 
 /* .teal {

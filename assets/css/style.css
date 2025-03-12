@@ -192,15 +192,9 @@ nav i {
   top: 5px;
 }
 
-/* main */
-
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
 
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  /* background: url(../../assets/img/bg.png) repeat; */
   padding-left: 190px;
 }
 

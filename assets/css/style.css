@@ -575,8 +575,7 @@ small {
 
 .teal {
   background-color: #0B2442 !important;
-  /* background-color: rgba(0, 0, 0, 0.4) */
-}
+  color: white !important;}
 
 /* .teal {
   background-color: #00695c !important;
